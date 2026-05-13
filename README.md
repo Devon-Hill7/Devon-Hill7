@@ -21,7 +21,7 @@ I'm currently leveling up in **Next.js and TypeScript** before I build out my po
 
 ## 📌 Featured Project
 
-### [MySpanishDiary](https://github.com/devonhill/MySpanishDiary)
+### [MySpanishDiary](https://github.com/Devon-Hill7/MySpanishDiary)
 A full-stack diary app for Spanish learners. Write entries in Spanish, get grammar feedback powered by LanguageTool, and learn from your mistakes. Built with Spring Boot + React, secured with JWT and Spring Security, with a custom internal REST API.
 
 ---
