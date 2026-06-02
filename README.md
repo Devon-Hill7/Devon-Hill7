@@ -1,6 +1,6 @@
 # Hi, I'm Devon Hill 👋
 
-I'm a full-stack software engineer who enjoys building tools that are actually useful — apps that solve real problems, not just portfolio filler.
+I'm a full-stack software engineer who enjoys building tools that solve real problems, not just portfolio filler.
 
 My current flagship project is **MySpanishDiary**, a full-stack web app that helps Spanish learners improve their writing by grading diary entries and surfacing grammar mistakes in context. It's built with Spring Boot, React, JWT auth, Spring Security, and LanguageTool.
 
