@@ -24,7 +24,8 @@ I recently built my personal **developer portfolio** using Next.js, TypeScript, 
 
 A full-stack diary application for Spanish learners. Users can write entries in Spanish, receive grammar feedback powered by LanguageTool, and learn from their mistakes through contextual suggestions. Built with Spring Boot and React, secured with JWT and Spring Security, with a custom REST API and PostgreSQL database.
 
-### [Developer Portfolio](https://github.com/Devon-Hill7/devon-portfolio)
+### Developer Portfolio
+[Live Demo](https://devonhill.vercel.app/) | [Repository](https://github.com/Devon-Hill7/devon-portfolio)
 
 A personal portfolio website built from scratch to showcase my software engineering projects and technical skills. Designed with Next.js, TypeScript, Tailwind CSS, shadcn/ui, and Framer Motion, featuring custom components, animations, and a desktop-focused user experience.
 
